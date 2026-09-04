@@ -68,15 +68,6 @@ Développeur fullstack en alternance, passionné par les projets bien construits
 | [**oy4c-website**](https://github.com/Tatanelprr/oy4c-website) | Site vitrine de l'association internationale Our Youth 4 The Climate, avec Notion comme CMS headless | `React 19` `Vite` `React Router` `Notion API` |
 | [**PokéNative**](https://github.com/Tatanelprr/pokenative) | Pokédex mobile cross-platform iOS/Android — recherche instantanée, fiches détaillées, types et faiblesses | `React Native` `Expo` `TypeScript` `PokéAPI` |
 
----
-
-## Stats GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tatanelprr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatanelprr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
 ---
 
