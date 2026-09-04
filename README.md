@@ -5,6 +5,10 @@
 
   <p><strong>Développeur fullstack</strong> · Bachelor CDA @ CESI</p>
 
+  <a href="https://tatanelprr.github.io/portfolio/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-EDE5D9?style=flat-square&logo=googlechrome&logoColor=black" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ethan-lepareur-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -72,6 +76,10 @@ Développeur fullstack en alternance, passionné par les projets bien construits
 ---
 
 <div align="center">
+  <a href="https://tatanelprr.github.io/portfolio/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-EDE5D9?style=flat-square&logo=googlechrome&logoColor=black" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ethan-lepareur-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Ethan_Lepareur-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
