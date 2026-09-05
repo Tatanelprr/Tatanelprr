@@ -5,7 +5,7 @@
 
   <p><strong>Développeur fullstack</strong> · Bachelor CDA @ CESI</p>
 
-  <a href="https://tatanelprr.github.io/portfolio/" target="_blank" rel="noopener">
+  <a href="https://portfolio-ethan-b11f8.web.app" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-EDE5D9?style=flat-square&logo=googlechrome&logoColor=black" />
   </a>
   &nbsp;
@@ -76,7 +76,7 @@ Développeur fullstack en alternance, passionné par les projets bien construits
 ---
 
 <div align="center">
-  <a href="https://tatanelprr.github.io/portfolio/" target="_blank" rel="noopener">
+  <a href="https://portfolio-ethan-b11f8.web.app" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-EDE5D9?style=flat-square&logo=googlechrome&logoColor=black" />
   </a>
   &nbsp;
