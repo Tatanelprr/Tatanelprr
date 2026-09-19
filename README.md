@@ -267,34 +267,17 @@ Work-study developer on the **SNG** project for **SNCF Réseau**, working across
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tatanelprr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&bg_color=0D0B1E" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=Tatanelprr&hide_border=true&background=0D0B1E&stroke=6D28D9&ring=A78BFA&fire=818CF8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=818CF8&dates=8B8B9E&titleColor=A78BFA" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=Tatanelprr&hide_border=true&background=0D0B1E&stroke=6D28D9&ring=A78BFA&fire=818CF8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=818CF8&dates=8B8B9E&titleColor=A78BFA" alt="GitHub Streak" />
 
-<br />
+<br /><br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatanelprr&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D0B1E" alt="Top Languages" />
+**Most Used Languages**
 
-</div>
-
----
-
-<!-- ======================== TROPHIES ======================== -->
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tatanelprr&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tatanelprr&bg_color=0D0B1E&color=A78BFA&line=7C3AED&point=818CF8&area=true&area_color=6D28D9&title_color=A78BFA&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D0B1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0B1E" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PHP-4F46E5?style=for-the-badge&logo=php&logoColor=white&labelColor=0D0B1E" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D0B1E" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-A78BFA?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D0B1E" alt="CSS" />
 
 </div>
 
