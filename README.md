@@ -6,7 +6,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=200&section=header&text=Ethan%20Lepareur&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20%26%20Product%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Ethan Lepareur" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=200&section=header&text=Ethan%20Lepareur&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20%7C%20Product%20Engineer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Ethan Lepareur" />
 
 <a href="https://github.com/Tatanelprr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&height=45&lines=Full-Stack+Web+Developer;MAALSI+Engineering+Student+%40+CESI;Work-study+Developer+%40+Orange+Business;React+%C2%B7+Symfony+%C2%B7+Laravel+%C2%B7+Spring+Boot" alt="Typing SVG" />
